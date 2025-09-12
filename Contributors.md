@@ -1,5 +1,5 @@
 - [zainibinov](https://github.com/zainibinov)
-
+-
 -[Layla](httplaylaSwifts://github.com/) 
 BinhTran2k4
 # Contributors
@@ -12,6 +12,7 @@ BinhTran2k4
 -[Austin Makila](https://github.com/austinmakila)
 samuel KC (https://github.com/samuelkcherian)
 -[Marcus Luca]
+-[krrish ray]
 -[Amol](https://github.com/03amol)
 -[Hyunhee Jo](https://github.com/hnc-hyunheejo)
 -[Madhav Sharma](https://github.com/Madhav-Pro)
